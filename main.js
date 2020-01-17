@@ -51,8 +51,17 @@ console.log(typeof(null));
   console.log(10%3)
  console.log("2" === "2");
 
- let isCheked = false;
+ let isCheked = false,
     isClose = false;
 
     console.log(isCheked || !isClose);
     console.log(3 ** 2);
+
+/////////////
+let userName = 2; //объявление строковой переменной
+let numbers = 2;
+
+console.log (2+2+userName);
+console.log (2>2)
+
+console.log (decr-19);
